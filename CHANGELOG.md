@@ -1,6 +1,6 @@
 # Change log
 
-## Development version
+## 2.0.0-alpha.4
 
 ### Features
 
@@ -17,7 +17,7 @@
 
 ### Bug fixes
 
-- Flickering or flashing when switching tabs in the Tab stack panel was reduced.
+- Flickering when switching tabs in the Tab stack panel was reduced.
   [[#610](https://github.com/reupen/columns_ui/pull/610)]
 
 ## 2.0.0-alpha.3
